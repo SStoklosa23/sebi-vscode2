@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebi-vscode2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to use a google auth
+- 🌱 I’m currently learning python
 
 
 
